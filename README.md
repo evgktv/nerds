@@ -1,4 +1,4 @@
-# [evgktv.github.io/glaccyshop](https://evgktv.github.io/glaccyshop)
+# [evgktv.github.io/nerds](https://evgktv.github.io/nerds)
 
 - HTML5;
 - CSS3;
